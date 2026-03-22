@@ -1,2 +1,3 @@
 # coderabbit
-Central CodeRabbit configuration for my repositories.
+
+Central CodeRabbit configuration for [@majard](https://github.com/majard) repositories.
